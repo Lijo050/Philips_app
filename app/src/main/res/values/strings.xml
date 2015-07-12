@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Patient form</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action">Mode Of Transport</string>
+    <string name="feedbacktype1">Bus</string>
+    <string name="feedbacktype2">Train</string>
+    <string name="feedbacktype3">Car</string>
+
+    <string-array name="feedbacktypelist">
+        <item>@string/feedbacktype1</item>
+        <item>@string/feedbacktype2</item>
+        <item>@string/feedbacktype3</item>
+
+    </string-array>
+</resources>
